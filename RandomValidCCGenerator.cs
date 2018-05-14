@@ -1,6 +1,6 @@
       #region Random CC Generator
       /// <summary>
-      /// Generate a valid credit card number randomly
+      /// Generate a valid credit card number randomly this is a test
       /// </summary>
       /// <returns>Returns a string that represents a credit card number.</returns>
       public static string CreditCardNumbers()
